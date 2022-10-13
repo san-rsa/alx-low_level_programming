@@ -1,9 +1,9 @@
 #include <unistd.h>
 
 /**
- *main - entry point
+ * main - prints the standrad error sandwiched around the  standard outpu/t
  *
- *Return: 1 after printing the function
+ * Return: returns 1
  */
 int main(void)
 {
