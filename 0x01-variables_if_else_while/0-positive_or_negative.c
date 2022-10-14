@@ -29,7 +29,7 @@ int main(void)
   printf("%i is 0\n", n);  
   } 
   
- else (n > 0)
+ else
   {
   printf("%i is positive\n", n);  
   }  
